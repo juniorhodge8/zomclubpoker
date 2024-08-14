@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Zomclub - zomclub.poker - Địa Chỉ Game Bài Đổi Thưởng Hàng Đầu Tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Zomclub <https://zomclub.poker/>`_, ra mắt vào năm 2016, nhanh chóng khẳng định vị thế trong ngành game bài đổi thưởng tại Việt Nam nhờ vào những đặc điểm nổi bật và sự phát triển không ngừng. Được cấp phép bởi Philippine Amusement & Gaming Corporation (PAGCOR) và Isle of Man Gambling Supervision, Zomclub đảm bảo tính uy tín và minh bạch trong hoạt động. Zomclub nổi bật với tính năng đổi thưởng linh hoạt, môi trường chơi công bằng, và khuyến mãi hấp dẫn. Sự yêu thích của người chơi tại Việt Nam, với tỷ lệ tìm kiếm cao và sự ủng hộ mạnh mẽ, càng chứng tỏ sức hấp dẫn và chất lượng của Zomclub.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 82 Phan Xích Long, Phường 16, Quận 11, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0351149898. 
 
-Contents
---------
+Email: info@zomclub.poker. 
 
-.. toctree::
+Website: https://zomclub.poker/
 
-   usage
-   api
+#zomclub #nhacaizomclub #dangkyzomclub #trangchuzomclub #linkzomclub
